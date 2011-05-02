@@ -1,0 +1,3 @@
+h1. jQuery loadTemplate Plugin
+
+This plugin is an extension of the jQuery Template plugin and is used to load external templates. Callbacks and event triggers are available for when the template becomes available.
